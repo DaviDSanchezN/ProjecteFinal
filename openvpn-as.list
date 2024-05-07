@@ -1,0 +1,1 @@
+deb [signed-by=/etc/apt/keyrings/openvpn-as.gpg.key] http://as-repository.openvpn.net/as/debian jammy main
